@@ -4,6 +4,8 @@
   A passionate Full-Stack Developer from India focused on building responsive and impactful web experiences.
 </p>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=praveenkumarkota-dev&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 ### 🌟 About Me
@@ -32,6 +34,24 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+---
+
+### 🚀 Project Showcase
+
+| Project | Description | Live Demo |
+|--------|-------------|-----------|
+| 🌍 Tourism Places in India | Static tourism website with 3 pages and clickable navigation | [Live Site](https://praveenkumarkota-dev.github.io/tourism-places-in-india/) |
+| 🎵 Music Heals Depression | Emotional healing music site with embedded videos | [Live Site](https://praveenkumarkota-dev.github.io/music-heals-depression/) |
+| 🍽️ Munch Restaurant | Responsive product listing site with Bootstrap | [Live Site](https://praveenkumarkota-dev.github.io/food-munch-restaurant/) |
+
+---
+
+### 📌 Pinned Projects (Quick Links)
+
+- 🔗 [Tourism Places in India](https://github.com/praveenkumarkota-dev/tourism-places-in-india)
+- 🔗 [Music Heals Depression](https://github.com/praveenkumarkota-dev/music-heals-depression)
+- 🔗 [Food Munch Restaurant](https://github.com/praveenkumarkota-dev/food-munch-restaurant)
+  
 ---
 
 ### 📊 GitHub Stats
