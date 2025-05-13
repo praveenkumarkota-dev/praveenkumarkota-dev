@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/praveenkumarkota-dev/praveenkumarkota-dev/refs/heads/main/image_1.png" alt="Banner" style="width:100%;" />
+<img src="https://raw.githubusercontent.com/praveenkumarkota-dev/praveenkumarkota-dev/refs/heads/main/IMG_2.png.jpg" alt="Banner" style="width:100%;" />
 <h1 align="center">Hi, I'm Praveen Kumar Kota! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
